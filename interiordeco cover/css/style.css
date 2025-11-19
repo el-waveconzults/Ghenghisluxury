@@ -145,6 +145,45 @@
     line-height: 12px;
     color: var(--pbmit-global-color);
 }
+
+.whatsapp-button{
+    background-color: #25D366;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;border: none;
+    font-size: 16px;
+}
+.Instagram-button {
+     background: #405DE6;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;border: none;
+    font-size: 16px;
+}
+.Email-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;border: none;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
 .pricing-one-bg{
 	background-image: url(../images/homepage-1/bg/pricing-bg-shape.png);
     background-position: top left;
